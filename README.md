@@ -34,10 +34,10 @@ This project focuses on understanding the internal mechanics of CNNs by manually
 ## Sample Outputs
 
 ### Loss Curve
-![Loss]()
+![Loss](loss_curve.png)
 
 ### Predictions
-![Predictions](predictions.png)
+![Predictions](prediction_samples.png)
 
 ## How to Run
 Run the notebook in Google Colab or locally after installing:
